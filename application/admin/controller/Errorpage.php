@@ -1,0 +1,1 @@
+<?php/** * Created by PhpStorm. * User: Administrator * Date: 2019/8/16 * Time: 15:31 */namespace app\admin\controller;class Errorpage extends Base{    public function index()    {        return $this->fetch();    }}
